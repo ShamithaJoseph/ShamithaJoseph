@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, I'm Shamitha</h1>
-<h3 align="center">An Aspiring Data Analyst -- from India Currently and currently in the USA in USA</h3>
+<h3 align="center">An Aspiring Data Analyst currently in the USA </h3>
 
 - 🔭 I’m currently working as **Teacher Assistant**
 
