@@ -30,7 +30,6 @@
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamithajoseph&show_icons=true&locale=en&layout=compact" alt="shamithajoseph" /></p>
 
 
 <!---
