@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Teacher Assistant**
 
-- 🌱 I’m currently upskilling **data analysis to grow my skills and explore new opportunities.**
+- 🌱 I’m upskilling **data analysis to grow my skills and explore new opportunities.**
 
 - 👯 I love **learning and growing, while also cherishing my time with family..**
 
